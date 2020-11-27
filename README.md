@@ -1,2 +1,1 @@
-# text_gen
-Text gen
+# LNP learning
